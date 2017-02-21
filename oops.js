@@ -39,6 +39,6 @@ function init(){
 
 
 // to call ut
-$(document).ready(function(){ 
-  init();
-});
+//$(document).ready(function(){ 
+ // init();
+//});
